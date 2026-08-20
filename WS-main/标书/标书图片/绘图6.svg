@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 绘图6.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.32802in" height="2.87723in"
+		viewBox="0 0 311.618 207.16" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-width:0.5}
+		.st2 {fill:#000000;font-family:黑体;font-size:0.833336em}
+		.st3 {font-size:1em}
+		.st4 {marker-end:url(#mrkr4-16);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st5 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st6 {fill:none;stroke:none;stroke-width:0.25}
+		.st7 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-16" class="st5" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(37.2681,-162.962)">
+			<title>矩形</title>
+			<desc>节点收到数据</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="41.4681" cy="194.311" width="82.94" height="25.6986"/>
+			<rect x="0" y="181.462" width="82.9362" height="25.6986" class="st1"/>
+			<text x="11.47" y="197.64" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>节点收到数据</text>		</g>
+		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(18.5,-78.2738)">
+			<title>菱形</title>
+			<desc>判断自己是不是缓存节点</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.2362" cy="175.446" width="120.48" height="63.4282"/>
+			<path d="M60.24 207.16 L120.47 175.45 L60.24 143.73 L0 175.45 L60.24 207.16 Z" class="st1"/>
+			<text x="5.24" y="178.77" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>判断自己是不是缓存节点</text>		</g>
+		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(37.2681,-18.5)">
+			<title>矩形.3</title>
+			<desc>将数据传递给订阅节点</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="41.4681" cy="194.311" width="82.94" height="25.6986"/>
+			<rect x="0" y="181.462" width="82.9362" height="25.6986" class="st1"/>
+			<text x="6.47" y="190.65" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>将数据传递给订<tspan
+						x="26.47" dy="1.298em" class="st3">阅节点</tspan></text>		</g>
+		<g id="shape4-11" v:mID="4" v:groupContext="shape" v:layerMember="0" transform="translate(71.6496,-162.962)">
+			<title>动态连接线</title>
+			<path d="M7.09 207.16 L7.09 221.38" class="st4"/>
+		</g>
+		<g id="shape5-17" v:mID="5" v:groupContext="shape" v:layerMember="0" transform="translate(71.6496,-78.2738)">
+			<title>动态连接线.5</title>
+			<path d="M7.09 207.16 L7.09 234.2" class="st4"/>
+		</g>
+		<g id="shape6-22" v:mID="6" v:groupContext="shape" transform="translate(210.181,-78.2738)">
+			<title>矩形.6</title>
+			<desc>将数据解析给上层应用</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="41.4681" cy="175.446" width="82.94" height="63.4282"/>
+			<rect x="0" y="143.732" width="82.9362" height="63.4282" class="st1"/>
+			<text x="6.47" y="171.79" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>将数据解析给上<tspan
+						x="26.47" dy="1.298em" class="st3">层应用</tspan></text>		</g>
+		<g id="shape7-26" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(120.204,-31.3493)">
+			<title>动态连接线.7</title>
+			<path d="M0 207.16 L131.45 207.16 L131.45 167.28" class="st4"/>
+		</g>
+		<g id="shape8-31" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(138.972,-102.901)">
+			<title>动态连接线.8</title>
+			<path d="M0 200.07 L64.17 200.07" class="st4"/>
+		</g>
+		<g id="shape9-36" v:mID="9" v:groupContext="shape" transform="translate(151.385,-117.899)">
+			<title>工作表.9</title>
+			<desc>N</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="201.491" width="45.36" height="11.3386"/>
+			<rect x="0" y="195.822" width="45.3543" height="11.3386" class="st6"/>
+			<text x="18.8" y="205.09" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>N</text>		</g>
+		<g id="shape10-39" v:mID="10" v:groupContext="shape" transform="translate(19.8579,-60.0727)">
+			<title>工作表.10</title>
+			<desc>Y</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="201.491" width="45.36" height="11.3386"/>
+			<rect x="0" y="195.822" width="45.3543" height="11.3386" class="st6"/>
+			<text x="19.75" y="205.09" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Y</text>		</g>
+	</g>
+</svg>
